@@ -67,15 +67,17 @@
     height: 100%;
     width: 100%;
     text-align: center;
-    display: none; /* comment this out for CSS hover */
-    /*transition: all 0.5s ease;*/
+    display: none; 
+    background-color: white;
+    opacity: 0.5;
 }
 .img-title h5 {
     position: absolute;
-    color: #fff;
+    color: black;
     top: 33%;
     width: 100%;
     text-align: center;
+    font-weight: 20px;
 }
 
 .portfolioImage{
