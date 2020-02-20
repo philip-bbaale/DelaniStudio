@@ -20,7 +20,7 @@
     text-align: center;
     padding:50px;
 }
-/*.servicesSection{
+.servicesSection{
     background-image: url("../images/backgrounds/s_image.jpg");
     height: auto;
     width: auto;
@@ -29,7 +29,7 @@
     font-weight: bold;
     padding: 100px;
 }
-.whatWedDoSection{
+/*.whatWedDoSection{
     height: auto;
     width: auto;
     text-align: center;
