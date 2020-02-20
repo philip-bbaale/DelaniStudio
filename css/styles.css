@@ -1,0 +1,71 @@
+/*.homeBackground{
+    background-image: url("../images/backgrounds/h_img.jpg");
+    height: 700px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.homeBackgroundText{
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    font-style: bold;
+}
+.mouseClick{
+    margin-top: 100px;;
+}
+.aboutUsSection{
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding:50px;
+}
+.servicesSection{
+    background-image: url("../images/backgrounds/s_image.jpg");
+    height: auto;
+    width: auto;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 100px;
+}
+.whatWedDoSection{
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+.whatWedDoSectionHead{
+    text-align: center;
+    padding: 30px;
+}
+.portfolioSection{
+    height: 500px;
+    width: auto;
+    text-align: center;
+}
+.portfolioImage{
+    height: 200px;
+    width: auto;
+}
+.contactUsSection{
+    height: auto;
+    width: auto;
+    background-image: url("../images/backgrounds/c_image.jpg");
+    color: white;
+    text-align: center;
+    padding: 100px;
+    padding-bottom: 150px;
+}
+.transparent-input{
+        background-color:rgba(0,0,0,0) !important;
+        color: white;
+}
+.form-control::-webkit-input-placeholder {
+    color: white;
+  }
+.socialIcons{
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding:50px;
+}
