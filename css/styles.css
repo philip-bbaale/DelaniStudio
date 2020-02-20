@@ -46,6 +46,38 @@
     width: auto;
     text-align: center;
 }
+.gallery {
+    width: 25em;
+    margin: 2em auto;
+}
+.gallery-item {
+    height: auto;
+    width: 48.618784527%;
+    float: left;
+    margin-bottom: 2em;
+    position: relative;
+}
+.gallery-item:first-child {
+    margin-right: 2.762430939%;
+}
+.img-title {
+    position: absolute;
+    top: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    display: none; /* comment this out for CSS hover */
+    /*transition: all 0.5s ease;*/
+}
+.img-title h5 {
+    position: absolute;
+    color: #fff;
+    top: 33%;
+    width: 100%;
+    text-align: center;
+}
+
 .portfolioImage{
     height: 200px;
     width: auto;
