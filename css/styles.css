@@ -42,7 +42,7 @@
     display: none;
 }
 .portfolioSection{
-    height: 500px;
+    height: auto;
     width: auto;
     text-align: center;
 }
