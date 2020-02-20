@@ -1,11 +1,11 @@
-/*.homeBackground{
+.homeBackground{
     background-image: url("../images/backgrounds/h_img.jpg");
     height: 700px;
     width: auto;
     background-repeat: no-repeat;
     background-size: cover;
 }
-.homeBackgroundText{
+/*.homeBackgroundText{
     color: white;
     text-align: center;
     margin-top: 200px;
