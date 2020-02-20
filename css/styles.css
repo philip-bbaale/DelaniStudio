@@ -1,6 +1,6 @@
 .homeBackground{
     background-image: url("../images/backgrounds/h_img.jpg");
-    height: 700px;
+    height: auto;
     width: auto;
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,7 +12,8 @@
     font-style: bold;
 }
 .mouseClick{
-    margin-top: 100px;;
+    margin-top: 50px;
+    padding: 50px;
 }
 .aboutUsSection{
     height: auto;
@@ -106,7 +107,4 @@
     text-align: center;
     padding:50px;
     padding-bottom: 10px;
-}
-.socialIconsCollection{
-    padding: 20px;
 }
