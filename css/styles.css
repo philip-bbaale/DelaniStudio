@@ -5,13 +5,13 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-/*.homeBackgroundText{
+.homeBackgroundText{
     color: white;
     text-align: center;
     margin-top: 200px;
     font-style: bold;
 }
-.mouseClick{
+/*.mouseClick{
     margin-top: 100px;;
 }
 .aboutUsSection{
