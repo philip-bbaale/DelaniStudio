@@ -38,6 +38,9 @@
     text-align: center;
     padding: 30px;
 }
+.whatWeDoText{
+    display: none;
+}
 .portfolioSection{
     height: 500px;
     width: auto;
