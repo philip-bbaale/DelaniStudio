@@ -1,5 +1,11 @@
 $(document).ready(function(){
-    $(".clickable").click(function(){
-        $(".whatWeDoText").toggle();
-    })
+    $(".clickable1").click(function(){
+        $(".whatWeDoText1").toggle();
+    });
+    $(".clickable2").click(function(){
+        $(".whatWeDoText2").toggle();
+    });
+    $(".clickable3").click(function(){
+        $(".whatWeDoText3").toggle();
+    });
 })
