@@ -2,6 +2,7 @@
     background-image: url("../images/backgrounds/h_img.jpg");
     height: auto;
     width: auto;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -13,7 +14,7 @@
 }
 .mouseClick{
     margin-top: 50px;
-    padding: 50px;
+    padding: 100px;
 }
 .aboutUsSection{
     height: auto;
@@ -100,6 +101,7 @@
 }
 .form-control::-webkit-input-placeholder {
     color: white;
+    font-weight: bold;
   }
 .socialIcons{
     height: auto;
