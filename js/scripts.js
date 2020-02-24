@@ -23,5 +23,6 @@ $(document).ready(function(){
         var email = $("#email").val();
         var message = $("#message").val();
         alert(name+' we have received your message. Thank you fro reaching out to us. ')
+        $("form").trigger('reset');
     })
 })
