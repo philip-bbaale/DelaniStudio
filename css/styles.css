@@ -42,6 +42,7 @@
 }
 .whatWeDoText1,.whatWeDoText2,.whatWeDoText3{
     display: none;
+    font-family: 'Indie Flower' ;
 }
 .portfolioSection{
     height: auto;
