@@ -22,6 +22,6 @@ $(document).ready(function(){
         var name = $("#name").val();
         var email = $("#email").val();
         var message = $("#message").val();
-        alert('Thank you '+name+' for your feedback.')
+        alert(name+' we have received your message. Thank you fro reaching out to us. ')
     })
 })
