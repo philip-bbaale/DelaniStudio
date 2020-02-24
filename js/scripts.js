@@ -17,4 +17,11 @@ $(document).ready(function(){
     }, function() {
         $(this).find('.img-title').fadeOut(100);
     });
+    
+    $("form").submit(function(){
+        var name = $("#name").val();
+        var email = $("#email").val();
+        var message = $("#message").val();
+        alert('Thank you '+name+' for your feedback.')
+    })
 })
